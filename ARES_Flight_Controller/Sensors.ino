@@ -1,0 +1,7 @@
+void setupSensors() {
+
+}
+
+void updateSensors() {
+
+}
